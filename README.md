@@ -1,6 +1,6 @@
-# AI Learning Tracer
+# Optimized Deep Knowledge Tracing
 
-A deep learning-based knowledge tracing system that models student learning over time. This project implements knowledge tracing models to predict student performance and track learning progress.
+A deep learning-based knowledge tracing system that models student learning over time. This project implements knowledge tracing models to predict student performance and track learning progress. Unlike the original implementation, which primarily relied on stochastic gradient descent (SGD), our approach explores modern optimization algorithms such as AdamW and Adagrad using PyTorch, aiming to improve convergence and generalization performance.
 
 ## Original Paper
 
@@ -11,7 +11,7 @@ This project is based on the paper "Deep Knowledge Tracing" by Chris Piech, Jona
 ## Project Structure
 
 ```
-AILearningTracer/
+.../
 ├── app/
 │   └── main.py          # Main application code
 ├── data/
@@ -39,8 +39,8 @@ AILearningTracer/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/altunshukurlu/AILearningTracer.git
-cd AILearningTracer
+git clone https://github.com/altunshukurlu/Optimized_DeepKnowledgeTracing.git
+cd Optimized_DeepKnowledgeTracing
 ```
 
 2. Create and activate a virtual environment:
