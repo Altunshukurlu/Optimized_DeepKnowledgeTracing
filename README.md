@@ -8,6 +8,8 @@ This project is based on the paper "Deep Knowledge Tracing" by Chris Piech, Jona
 
 [Deep Knowledge Tracing Paper](http://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
 
+Here is my paper [Improving Deep Knowledge Tracing via Gated Architectures and Adaptive Optimization](Paper: https://arxiv.org/abs/2504.20070)
+
 ## Project Structure
 
 ```
