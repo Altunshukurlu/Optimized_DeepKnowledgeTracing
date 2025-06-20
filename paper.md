@@ -26,7 +26,7 @@ Our software provides a fully re-implemented DKT framework in PyTorch with two m
 1. Replacing standard RNNs with more effective gated architectures (LSTM and GRU), which better model long-term dependencies.
 2. Integrating a modular optimization benchmarking suite that supports SGD, RMSProp, Adagrad, Adam, and AdamW for more stable and efficient training.
 
-This package is designed for education researchers, data scientists, and EdTech practitioners looking to build adaptive learning systems, evaluate temporal modeling strategies, or benchmark deep learning models on educational datasets.
+This package is designed for education researchers, data scientists, and EdTech practitioners looking to build adaptive learning systems, evaluate temporal modeling strategies, or benchmark deep learning models on educational datasets. Full research article and findings can be found on [Arxiv](https://arxiv.org/abs/2504.20070)
 
 # Statement of need
 
