@@ -30,7 +30,7 @@ This package is designed for education researchers, data scientists, and EdTech 
 
 # Statement of need
 
-Student modeling and personalized education require accurate, scalable tools to predict student performance over time. Deep Knowledge Tracing, first introduced by Piech et al. (2015), marked a shift from probabilistic models to neural architectures in educational data mining. However, its original implementation lacks modern infrastructure and does not exploit advances in gated networks or optimization techniques.
+Student modeling and personalized education require accurate, scalable tools to predict student performance over time. Deep Knowledge Tracing, first introduced by [@piech2015deep], marked a shift from probabilistic models to neural architectures in educational data mining. However, its original implementation lacks modern infrastructure and does not exploit advances in gated networks or optimization techniques.
 
 Our package fills this gap by providing:
 - A PyTorch-based, extensible, and reproducible codebase.
